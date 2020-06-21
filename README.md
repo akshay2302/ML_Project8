@@ -1,1 +1,1 @@
-EDA and Prediction on Pima Indian Diabetes
+EDA and Prediction on Pima Indian Diabetes.
