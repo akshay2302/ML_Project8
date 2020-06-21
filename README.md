@@ -1,2 +1,1 @@
-# ML_Project8
-Detailed information about Pima Indian Diabetes
+EDA and Prediction on Pima Indian Diabetes
